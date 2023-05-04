@@ -1,0 +1,25 @@
+{
+    "manifest": {
+        "author": "MiWa9813#1469",
+        "version": "1.0.0",
+        "license": "no",
+        "name": "Blue and Yellow"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": -1391181977,
+        "background": -16246230,
+        "accent": -861568,
+        "mention_highlight": -1609352096,
+        "statusbar": -16180178,
+        "background_secondary": -16378848,
+        "input_background": -14267797,
+        "blocked_bg": -8952021
+    },
+    "colors": {
+        "status_grey": -14188851
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
